@@ -4,4 +4,9 @@ acessar a pasta do projeto: python manage.py runserver
 
 localhost:8000
 
-criar aplicação: python manage.py startapp nomeAPP
+criar aplicacao: python manage.py startapp nomeAPP
+
+
+valida os templates da aplicacao e joga no bd criando as tbls : python manage.py migrate 
+
+verifica as alteraÃ§Ãµes antes de migrar: python manage.py makemigrations 
