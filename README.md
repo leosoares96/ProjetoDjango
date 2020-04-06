@@ -1,2 +1,2 @@
 # SI7
-Repositório da aula de Comércio Eletrônico
+Repositório destinado a estudo de desenvolvimento web em Python utilizando Django
